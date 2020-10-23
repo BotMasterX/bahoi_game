@@ -1,0 +1,32 @@
+.grid {
+  display: flex;
+  flex-wrap: wrap;
+  width: 400px;
+  height: 300px;
+}
+
+body{
+		background-image: url('bahoi.jpg');
+		background-repeat: no-repeat;
+		background-attachment: fixed;
+		background-size: cover;
+}
+
+h3{
+	color: white;
+	font-size:400%;
+	font-family: verdana;	
+}
+
+#my{
+		zoom: 300%;
+}
+
+
+p{
+	color: white;
+	font-size: 150%;
+	font-family: verdana;
+	text-align: right;
+	
+}
